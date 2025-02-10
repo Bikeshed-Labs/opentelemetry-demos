@@ -5,7 +5,8 @@ The idea is to provide accessible playgrounds which also explore features beyond
 These are meant to be functional with a Grafana Cloud account.
 
 ## Maturity Levels
-- Level 0: the base code provided by OpenTelemetry
-- Level 1: craps function
-- Level 2: shoddy dice roll function, error handling
-- Level 3: sampling
+### Manual instrumentation
+- Level m0: the base code provided by OpenTelemetry
+- Level m1: craps function
+- Level m2: shoddy dice roll function, error handling
+- Level m3: sampling
